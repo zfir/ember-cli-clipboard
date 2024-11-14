@@ -83,6 +83,9 @@
   "peerDependencies": {
     "@ember/test-helpers": ">= 2.9.3"
   },
+  "resolutions": {
+    "ember-modifier": "^4.2.0"
+  },
   "keywords": [
     "ember-addon",
     "ember-cli",
